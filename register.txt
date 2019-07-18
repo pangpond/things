@@ -1,0 +1,10 @@
+{
+    "id": "6557521197546762630",
+    "name": "OrangeOwl",
+    "type": "BLE",
+    "channelId": 1594785677,
+    "actionUri": "line://app/1594785677-1VgwvZKm",
+    "serviceUuid": "93125dca-7ad1-4af8-a960-bc52bf587680",
+    "psdiServiceUuid": "e625601e-9e55-4597-a598-76018a0d293d",
+    "psdiCharacteristicUuid": "26e2b12b-85f0-4f3f-9fdd-91d114270e6e"
+}
